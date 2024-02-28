@@ -20,7 +20,7 @@
   npm install 
   ```
   ## Usage
-  For the ability to have another text editor that is free and simple to use. The link to the deployed site is [here]().
+  For the ability to have another text editor that is free and simple to use. The link to the deployed site is [here](https://text-editor-challenge-hstephan.onrender.com).
 
   MIT
 
